@@ -1,18 +1,37 @@
 # Mini-Project-1-DDP-2025
+# Profil
+
 Nama: Muhammad Arzad NIM: 2509116014 Sistem Informasi A'2025
 
-**PENJELASAN PEMROGRAMAN**
+# Deskripsi Singkat
 
-Pemrograman ini merupakan sebuah sistem penjualan sederhana yang di rancang khusus untuk kafe seperti Kopi Kenangan. Sistem ini di bangun menggunakan bahasa pemrograman python dan berfungsi untuk mencatat dan mengelola transaksi penjualan berbagai menu kopi
-
-Dalam pemrograman ini saya menggunakan Conditional Statements, List & Tuple. Untuk list berfungsi untuk menyimpan semua data transaksi penjualan yang terjadi, dan tuple berisi daftar menu kopi yang tersedia , yang bersifat tetap dan tidak dapat diubah selama program berjalan. Setiap transaksi dicatat dengan detail lengkap seperti Nama Pelanggan, Jenis Kopi yang di pesan, Jumlah Cup, Harga per Cup, dan Total harga yang harus di bayar.
-
+Program Sistem Menejemen Penjualan Kopi Kenalan di buat untuk membantu usaha dalam mengelola transaksi penjualan harian mereka.
 Sistem ini menawarkan 3 fungsi utama sebagai berikut:
 - Menambah Penjualan Baru
 - Menghapus Penjualan
 - Keluar dari program
 
-**PENJELASAN FLOWCHART**
+# Alur Program
+**1. Menambah Penjualan Baru**
+
+<img width="228" height="193" alt="image" src="https://github.com/user-attachments/assets/ca41835f-4bb1-43fb-b61a-bb2f1b567aa5" />
+
+Pada menu menambah penjualan baru pengguna menginput Nama Pelanggan - Nama Kopi - Jumlah Cup - Harga Per Cup, program akan menghitung total harga pesanan, dan akan muncul output "Berhasil ditambahkan"
+
+**2. Menghapus Pesanan**
+
+<img width="317" height="26" alt="image" src="https://github.com/user-attachments/assets/a698c86f-c1ad-42e9-b79c-55157a5dee8c" />
+
+Pada menu Menghapus Pesanan pengguna dapat menghapus pesanan yang sudah di tambahkan
+
+**3. Keluar dari Program**
+
+<img width="140" height="65" alt="image" src="https://github.com/user-attachments/assets/512b0b65-1ef0-441a-8916-3097dd943f63" />
+
+Pada menu Keluar dari Program pengguna dapat keluar dari program jika tidak jadi menginput pesanan dan akan memberikan output "Terima Kasih"
+
+# Penjelasan Flowcart
+
 ![Mini Project 1 DDP 2025](https://github.com/user-attachments/assets/6905624f-fb64-4f57-b1c3-5fbb7e80266e)
 
 
